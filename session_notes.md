@@ -33,6 +33,11 @@
 - A participant of a diversity workshop: “I'm embarrassed to say that I'm studying software”
 - (Even) My (female) friends at the University: “you're weird” (because of studying software)
 - Teacher at the uni: “don't put too much effort, you'll end up anyways at home taking care of your children.”
+- You must be like a man to work with us. I know you have menstruation every month and it causes you changes of humour. You must be a balanced person in order to work with us.
+- You discover solutions very quickly, before your colleagues and all of them are men. You must keep quiet if you don't want to have problems with them.
+- "It's the same I thought", continuously.
+- "I'm going to teach you how to ..." without asking before if I know about it.
+- I don't trust you, because you don't have a Facebook account. I cannot see public photos about you.
 
 ## Thoughts
 
@@ -55,10 +60,14 @@
 
 ## Action items
 
+For women:
+- Don't give up
+- Join women communities like Women Techmakers, Women Who Code, ...
+- Surround yourself with positive, supportive men.
 
-
-
-
+For men:
+- Stop & think. If women organize events with all women speakers or there are a lot of women in tech communities, they signal a problem.
+- Next event you attend, please look for a woman in your company and go with her.
 
 ## Unspoken
 
