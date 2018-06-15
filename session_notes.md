@@ -38,6 +38,7 @@
 - "It's the same I thought", continuously.
 - "I'm going to teach you how to ..." without asking before if I know about it.
 - I don't trust you, because you don't have a Facebook account. I cannot see public photos about you.
+- I went to JBCNConf18 and I won one prize of Zara who was sponsor. The prize consisted of three man T-shirts (size L) and a man perfume. They didn't expect women in this event.
 
 ## Thoughts
 
